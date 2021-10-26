@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven Jonathan</h1>
-<h3 align="center">A passionate developer from Indonesia. I love to tinker with electronics, and programming especially ones that are related to machine learning, Web, and data analysis.</h3>
+<h3 align="center">A passionate developer from Indonesia. I love to tinker with electronics, and programming especially ones that are related to machine learning, web technology, and data analysis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steve246&label=Profile%20views&color=0e75b6&style=flat" alt="steve246" /> </p>
 
