@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steve246" alt="steve246" /></a> </p>
 
-- 🔭 I’m currently working on [Sign Languange Project](https://github.com/Steve246/Sign-Languange-Recognition)
+- 🔭 I’m currently working on [Sign Languange Project](https://github.com/Steve246/Sign-Languange-Recognition) and in spare time try to build [my data science related project](https://github.com/Steve246/Data-Science-Project)
 
 - 🌱 I’m currently learning **Vue.Js, TensorFlow Object Detection, Raspbery Pi**
 
