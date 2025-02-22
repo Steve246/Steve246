@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Nice to Meet You, I'm Steven</h1> 
-<h3 align="center">With 2 years of experience, I combine creativity and efficiency in everything I do. I thrive on tackling engineering challenges and continuously pursue personal projects that fuel my curiosity 😄</h3> 
+<h3 align="center">With 1.5+ years of experience, I combine creativity and efficiency in everything I do. I thrive on tackling engineering challenges and continuously pursue personal projects that fuel my curiosity 😄</h3> 
 <h3 align="center">When I'm not working on engineering projects, you'll find me immersed in sports, constantly pushing myself to improve. I love blending my passion for both worlds to create innovative solutions and stay active.</h3>
 
 
